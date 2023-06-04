@@ -1,0 +1,366 @@
+[
+  {
+    "id": "68335e87-29b9-42ae-a2bf-b605ea750898",
+    "data": [
+      {
+        "text": "uncertain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "427be8aa-a31c-4cde-8981-98066c138077",
+    "data": [
+      {
+        "text": "unsure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2ca700f-5a09-4c46-b552-9c1395c475fd",
+    "data": [
+      {
+        "text": "get help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93e2852f-8f6d-4168-bc3b-12cea0ad7ff6",
+    "data": [
+      {
+        "text": "i can\u0027t make any decisions right now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "371063b1-be1d-4efa-bc6c-1596ab0324a3",
+    "data": [
+      {
+        "text": "whatever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cb523f7-ec38-43de-96a3-7687186b4f98",
+    "data": [
+      {
+        "text": "you\u0027re the decision maker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46a07f6d-b1d9-4b47-939c-d349108a5901",
+    "data": [
+      {
+        "text": "i want to see how a rational decision maker would approach this",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6d28709-22c3-41df-bdea-aa7820835eeb",
+    "data": [
+      {
+        "text": "i don\u0027t care",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1d1194e-7358-4643-ba6d-3889d3068668",
+    "data": [
+      {
+        "text": "i am just bored",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a36078bf-9cb7-4941-bc00-a4f1445547d8",
+    "data": [
+      {
+        "text": "nothing sounds interesting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a4dd57f-5b0a-4918-b4a1-27c423b828e8",
+    "data": [
+      {
+        "text": "i don\u0027t know what I want",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f06d9d0f-2c5b-46e1-b42b-ae32ad5b11b6",
+    "data": [
+      {
+        "text": "i said i\u0027m in zombie mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f873caf-2b8e-4c01-90c2-5961a364fdee",
+    "data": [
+      {
+        "text": "mega zombie mode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef1434f0-a8df-42fd-939d-9ca48e79b57c",
+    "data": [
+      {
+        "text": "no idea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96d81c02-6553-4739-a149-aef5268b345d",
+    "data": [
+      {
+        "text": "i have no idea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ce0f81d-fe77-44d1-a9f4-84e943141bf3",
+    "data": [
+      {
+        "text": "you pick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4224dbd5-6bd0-4458-a49b-acc1206b8d0d",
+    "data": [
+      {
+        "text": "you choose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3377890-2e2a-43c1-82c5-ff396f5cf354",
+    "data": [
+      {
+        "text": "the latter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25b05351-2c7f-4403-8f21-2d7739b9ea1d",
+    "data": [
+      {
+        "text": "help choose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "795b5946-510b-4b9c-bb06-f763f394459f",
+    "data": [
+      {
+        "text": "help decide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47408374-8426-4027-9358-b9b99cdf0250",
+    "data": [
+      {
+        "text": "help me decide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0a7b3a0-9a8f-4d6a-bf39-2a96997bd601",
+    "data": [
+      {
+        "text": "help me pick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d2b5e22-7eb7-4023-9c6a-a04bc54cce23",
+    "data": [
+      {
+        "text": "help me choose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27cef290-518c-4023-adb1-d989c5e7be43",
+    "data": [
+      {
+        "text": "ask questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a22e737a-9bf9-4a20-8997-33053d42d52d",
+    "data": [
+      {
+        "text": "ask me questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac7e4fb6-3a98-41b2-8bb3-199ff34e3f1f",
+    "data": [
+      {
+        "text": "you tell me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "428b53cd-962d-4d1e-9975-f2f75c01eacd",
+    "data": [
+      {
+        "text": "I\u0027m not sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50d39115-fdd4-4ce6-bdaf-61f3b8b02fd2",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

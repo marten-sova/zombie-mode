@@ -1,0 +1,39 @@
+{
+  "id": "ce460429-2791-40c8-82cd-298a8b3b213a",
+  "parentId": "f9ef6b7e-0a6d-45cc-9064-d04860f22d84",
+  "rootParentId": "07da0b13-6979-4195-9e28-962a542b9a52",
+  "name": "HelpDecide_been-outside-yes",
+  "auto": true,
+  "contexts": [
+    "HelpDecide_productive-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HelpDecide.HelpDecide-custom-2.HelpDecide_zombie-low-medium-yes.HelpDecide_productive-yes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Call random chance function"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

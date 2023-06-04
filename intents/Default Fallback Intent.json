@@ -1,0 +1,38 @@
+{
+  "id": "b904e207-8c90-4bae-a415-d1f43737186b",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry, I didn\u0027t understand. I can ask questions to help you find an activity, or you can choose a category directly (Passive, Hobby, Enriching, Outdoor)",
+            "I didn\u0027t quite catch that. You can ask me for help deciding, or you can choose an activity category (Passive, Hobby, Enriching, Outdoor)",
+            "I\u0027m sorry, I don\u0027t understand. I can help you decide, or you can request a specific activity type (Passive, Hobby, Enriching, Outdoor).",
+            "Sorry, I didn\u0027t understand that. If you\u0027d like, you can ask me to help you pick an activity."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

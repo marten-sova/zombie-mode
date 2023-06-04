@@ -1,0 +1,340 @@
+[
+  {
+    "id": "96012744-ba96-419e-a2d9-afe87123d4a0",
+    "data": [
+      {
+        "text": "exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecfe589d-f4b2-4d1d-b609-2183c7eb2be4",
+    "data": [
+      {
+        "text": "something active",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5830bef4-226a-4985-b2b7-846ff821f5fc",
+    "data": [
+      {
+        "text": "i want to get some exercise",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ac27117-c3e4-4ee5-81a8-5c25ad350977",
+    "data": [
+      {
+        "text": "i am feeling restless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcff2438-f776-4c86-8227-23bf5e7da9a4",
+    "data": [
+      {
+        "text": "i want to stretch my legs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0aeb03b-0080-49f5-8ba5-ea97fcc09010",
+    "data": [
+      {
+        "text": "i want to be outdoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5eece342-f177-47cd-addf-a5237d65ad17",
+    "data": [
+      {
+        "text": "i want to be outside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff748dcf-3aec-443e-939b-45e9ba9aebfb",
+    "data": [
+      {
+        "text": "explore the city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32513c6d-7a7e-4653-91c8-1af1d0eff572",
+    "data": [
+      {
+        "text": "the weather is good so maybe something outside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a0f68de-1e1f-4848-ab66-c009717c8b0e",
+    "data": [
+      {
+        "text": "well it is pretty nice out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20efd301-1c36-447b-bf37-29e2793852f8",
+    "data": [
+      {
+        "text": "i want to take advantage of the nice weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "090567f7-5093-427a-820f-caeb9975e793",
+    "data": [
+      {
+        "text": "i want to enjoy the sunshine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7c2734e-267f-46d0-914a-f841e11c0796",
+    "data": [
+      {
+        "text": "something like a walk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e869905-7200-40c3-bafe-9d7bbc9e49ba",
+    "data": [
+      {
+        "text": "i want to go biking or something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c4e8bff-2808-464f-8f05-55c7913c2428",
+    "data": [
+      {
+        "text": "i want to enjoy the sun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91a9b669-ec8a-4a4b-af7c-337c20ea26eb",
+    "data": [
+      {
+        "text": "i want to get some fresh air",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "961f47d0-a03c-4fdf-a0de-fa3596e5d4d7",
+    "data": [
+      {
+        "text": "something not inside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9dba97f7-489c-4679-847f-c49b792128d0",
+    "data": [
+      {
+        "text": "something in the great outdoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dabfb80-8599-49b8-936c-1ea039e61394",
+    "data": [
+      {
+        "text": "how about an outside activity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43c13397-81cb-431e-87b6-8376f362a575",
+    "data": [
+      {
+        "text": "how about an outdoor activity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a902b39f-7c85-4b6c-8e78-c61f07461969",
+    "data": [
+      {
+        "text": "i want to do something outdoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bc4d298-bf8b-4e98-a1d8-d45b5ac038a4",
+    "data": [
+      {
+        "text": "i want to do something outside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc1d0cb4-5981-49c1-9c6e-bd2355bc2146",
+    "data": [
+      {
+        "text": "i want to go outdoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3dd2399-a763-4a3d-9227-75fbb780b62a",
+    "data": [
+      {
+        "text": "i want to go outside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0669d218-e977-46b7-8426-67d78606148a",
+    "data": [
+      {
+        "text": "Outdoors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5533c3fc-14c4-425e-98d4-29d279af4c61",
+    "data": [
+      {
+        "text": "Outside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

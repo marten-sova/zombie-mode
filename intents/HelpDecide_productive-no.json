@@ -1,0 +1,39 @@
+{
+  "id": "6a3f63d5-4930-45e5-b65c-f304c96c9750",
+  "parentId": "af5396fb-555a-4100-b353-e84a37d37277",
+  "rootParentId": "07da0b13-6979-4195-9e28-962a542b9a52",
+  "name": "HelpDecide_productive-no",
+  "auto": true,
+  "contexts": [
+    "HelpDecide_zombie-low-medium-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HelpDecide.HelpDecide-custom-2.HelpDecide_zombie-low-medium-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "call hobby activity"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

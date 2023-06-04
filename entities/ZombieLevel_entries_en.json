@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Low",
+    "synonyms": [
+      "Low",
+      "Minimal"
+    ]
+  },
+  {
+    "value": "Medium",
+    "synonyms": [
+      "Medium",
+      "Standard",
+      "Normal",
+      "Middling"
+    ]
+  },
+  {
+    "value": "High",
+    "synonyms": [
+      "High",
+      "Extreme",
+      "Critical"
+    ]
+  }
+]

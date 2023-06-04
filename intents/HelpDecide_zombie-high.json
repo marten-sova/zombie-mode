@@ -1,0 +1,56 @@
+{
+  "id": "f39ac04f-766d-48fe-b703-bc78289ec8aa",
+  "parentId": "07da0b13-6979-4195-9e28-962a542b9a52",
+  "rootParentId": "07da0b13-6979-4195-9e28-962a542b9a52",
+  "name": "HelpDecide_zombie-high",
+  "auto": true,
+  "contexts": [
+    "HelpDecide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HelpDecide.HelpDecide-custom",
+      "affectedContexts": [
+        {
+          "name": "HelpDecide-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "55c0340c-6172-43c2-8136-9e6a8fe61623",
+          "name": "zombielevel",
+          "required": true,
+          "dataType": "@ZombieLevel",
+          "value": "$zombielevel",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "680560c7-baef-4d4d-bd63-cd5b1add627e",
+  "parentId": "f9ef6b7e-0a6d-45cc-9064-d04860f22d84",
+  "rootParentId": "07da0b13-6979-4195-9e28-962a542b9a52",
+  "name": "HelpDecide_been-outside-no",
+  "auto": true,
+  "contexts": [
+    "HelpDecide_productive-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HelpDecide.HelpDecide-custom-2.HelpDecide_zombie-low-medium-yes.HelpDecide_productive-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "call outdoor activity"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

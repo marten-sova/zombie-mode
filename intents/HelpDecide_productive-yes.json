@@ -1,0 +1,44 @@
+{
+  "id": "f9ef6b7e-0a6d-45cc-9064-d04860f22d84",
+  "parentId": "af5396fb-555a-4100-b353-e84a37d37277",
+  "rootParentId": "07da0b13-6979-4195-9e28-962a542b9a52",
+  "name": "HelpDecide_productive-yes",
+  "auto": true,
+  "contexts": [
+    "HelpDecide_zombie-low-medium-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HelpDecide.HelpDecide-custom-2.HelpDecide_zombie-low-medium-yes",
+      "affectedContexts": [
+        {
+          "name": "HelpDecide_productive-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "OK, and have you been outside or worked out today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

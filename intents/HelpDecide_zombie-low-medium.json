@@ -1,0 +1,59 @@
+{
+  "id": "af5396fb-555a-4100-b353-e84a37d37277",
+  "parentId": "07da0b13-6979-4195-9e28-962a542b9a52",
+  "rootParentId": "07da0b13-6979-4195-9e28-962a542b9a52",
+  "name": "HelpDecide_zombie-low-medium",
+  "auto": true,
+  "contexts": [
+    "HelpDecide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HelpDecide.HelpDecide-custom-2",
+      "affectedContexts": [
+        {
+          "name": "HelpDecide_zombie-low-medium-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5562c5a8-74fa-430a-9c6b-5cbf8c35276d",
+          "name": "zombielevel",
+          "required": true,
+          "dataType": "@ZombieLevel",
+          "value": "$zombielevel",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "And do you feel obligated to do something semi-productive?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

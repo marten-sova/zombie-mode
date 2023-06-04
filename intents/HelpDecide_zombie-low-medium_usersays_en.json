@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d3cfff5c-dd5b-4480-bc01-2e2c7c7756fb",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@ZombieLevel",
+        "alias": "zombielevel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55a4d348-4f30-46b8-8691-9352bb2b9ec1",
+    "data": [
+      {
+        "text": "low",
+        "meta": "@ZombieLevel",
+        "alias": "zombielevel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
