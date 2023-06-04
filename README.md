@@ -51,7 +51,11 @@ This path makes a random selection of producing an Enrichment Activity or a Hobb
 The reason for this is that it allows the user to enjoy a hobby completely guilt free, because they expressly said they were willing to do a productive activity, but the zombie assistant gave them permission to do something non-productive instead.
 ### Backend logic:
 The random activities are stored in an array and chosen by generating a random number in the index range.
-The 'Help me decide' decision tree is implemented via nested follow-up intents. If the users response leads to one of the 4 terminal intents, it calls the associated cloud function to get a random activity.
+The 'Help me decide' decision tree is implemented via nested follow-up intents. 
+
+<img width="501" alt="Screenshot 2023-06-04 at 1 59 29 PM" src="https://github.com/marten-sova/zombie-mode/assets/67399738/f315ba18-5325-4b17-9521-7ebfe9aa2e7d">
+
+If the users response leads to one of the 4 terminal intents, it calls the associated cloud function to get a random activity.
 Otherwise, the users response leads to the next follow-up intent to ask another question.
 
 ## Interaction Model
